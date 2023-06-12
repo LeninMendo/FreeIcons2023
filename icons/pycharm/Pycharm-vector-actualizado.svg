@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126.15 126.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_6);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_2);
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_5);
+      }
+
+      .cls-6 {
+        fill: url(#Degradado_sin_nombre_4);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_6" data-name="Degradado sin nombre 6" x1="45.05" y1="519.34" x2="120.12" y2="519.34" gradientTransform="translate(0 568) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21d789"/>
+      <stop offset="1" stop-color="#07c3f2"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="-44.28" y1="461.55" x2="110.31" y2="575.66" gradientTransform="translate(0 568) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#fcf84a"/>
+      <stop offset=".11" stop-color="#a7eb62"/>
+      <stop offset=".21" stop-color="#5fe077"/>
+      <stop offset=".27" stop-color="#32da84"/>
+      <stop offset=".31" stop-color="#21d789"/>
+      <stop offset=".58" stop-color="#21d789"/>
+      <stop offset=".6" stop-color="#21d789"/>
+      <stop offset=".69" stop-color="#20d68c"/>
+      <stop offset=".76" stop-color="#1ed497"/>
+      <stop offset=".83" stop-color="#19d1a9"/>
+      <stop offset=".9" stop-color="#13ccc2"/>
+      <stop offset=".97" stop-color="#0bc6e1"/>
+      <stop offset="1" stop-color="#07c3f2"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_3" data-name="Degradado sin nombre 3" x1="16.82" y1="428.06" x2="42.6" y2="508.96" gradientTransform="translate(0 568) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21d789"/>
+      <stop offset=".16" stop-color="#24d788"/>
+      <stop offset=".3" stop-color="#2fd886"/>
+      <stop offset=".44" stop-color="#41da82"/>
+      <stop offset=".56" stop-color="#5adc7d"/>
+      <stop offset=".69" stop-color="#7ae077"/>
+      <stop offset=".81" stop-color="#a1e36e"/>
+      <stop offset=".93" stop-color="#cfe865"/>
+      <stop offset="1" stop-color="#f1eb5e"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_4" data-name="Degradado sin nombre 4" x1="50.9" y1="498.44" x2="107.01" y2="573.87" gradientTransform="translate(0 568) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#21d789"/>
+      <stop offset=".06" stop-color="#24d788"/>
+      <stop offset=".11" stop-color="#2fd886"/>
+      <stop offset=".16" stop-color="#41da82"/>
+      <stop offset=".21" stop-color="#5add7d"/>
+      <stop offset=".25" stop-color="#79e077"/>
+      <stop offset=".26" stop-color="#7ce076"/>
+      <stop offset=".5" stop-color="#8ce173"/>
+      <stop offset=".92" stop-color="#b2e56b"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="136.76" y1="488.8" x2="23.71" y2="489.84" gradientTransform="translate(0 568) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".39" stop-color="#fcf84a"/>
+      <stop offset=".54" stop-color="#ecf451"/>
+      <stop offset=".83" stop-color="#c2e964"/>
+      <stop offset=".92" stop-color="#b2e56b"/>
+    </linearGradient>
+  </defs>
+  <g id="pycharm">
+    <g>
+      <g>
+        <polygon class="cls-2" points="88.48 19.82 125.25 50.64 112.09 77.49 89.75 71.36 70.64 71.36 88.48 19.82"/>
+        <polygon class="cls-4" points="51.36 39.83 44.15 77.49 43.43 90.47 25.59 98.22 0 100.92 7.75 19.28 53.88 0 82.36 18.74 51.36 39.83"/>
+        <polygon class="cls-3" points="51.36 39.83 54.78 112.63 43.25 126.15 0 100.92 35.5 47.94 51.36 39.83"/>
+        <polygon class="cls-6" points="98.94 34.42 55.15 34.42 93.89 0 98.94 34.42"/>
+        <polygon class="cls-5" points="126.15 112.81 87.58 125.97 36.4 111.55 51.36 39.83 57.31 34.42 88.48 31.54 85.6 62.89 110.47 53.34 126.15 112.81"/>
+      </g>
+      <g>
+        <rect x="24.15" y="24.15" width="77.85" height="77.85"/>
+        <rect class="cls-1" x="31.54" y="87.4" width="29.19" height="4.87"/>
+        <path class="cls-1" d="m31.18,34.42h13.16c7.75,0,12.43,4.51,12.43,11.17v.18c0,7.39-5.77,11.35-12.98,11.35h-5.41v9.55h-7.03v-32.26h-.18Zm12.8,16.22c3.6,0,5.59-2.16,5.59-4.87v-.18c0-3.24-2.16-4.87-5.77-4.87h-5.41v9.91s5.59,0,5.59,0Z"/>
+        <path class="cls-1" d="m59.65,50.64h0c0-9.19,6.85-16.76,16.76-16.76,6.13,0,9.73,1.98,12.8,5.05l-4.51,5.23c-2.52-2.34-5.05-3.6-8.29-3.6-5.41,0-9.37,4.51-9.37,10.09v-.18c0,5.59,3.78,10.09,9.37,10.09,3.6,0,5.95-1.44,8.47-3.78l4.51,4.51c-3.24,3.6-7.03,5.77-13.16,5.77-9.55.18-16.58-7.21-16.58-16.4"/>
+      </g>
+    </g>
+  </g>
+</svg>
