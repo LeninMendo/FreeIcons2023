@@ -1,9 +1,6 @@
-# lenicon
-Icon set representing: frontend and backend programming languages, database, Devops, Framework, design software, game engines and others
-
 <h2 id="about">About the project</h2>
 <p>
-    Devicon aims to gather all logos representing development languages and tools.
+    Devicon aims to gather all logos representing frontend and backend programming languages, database, Devops, Framework, design software, game engines and others.
     Each icon comes in several versions: font/SVG, original/plain/line, colored/not colored, wordmark/no wordmark.
     Devicon has 150+ icons. And it's growing!<br />
 </p>
